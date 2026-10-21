@@ -1,0 +1,9 @@
+# Çay demleme sırasında oluşan gereksiz şeyler
+*.pyc
+__pycache__/
+.env
+çay-bitmiş.log
+bahaneler-eski.txt
+
+# Kayyum onayı olmayan dosyalar
+gizli-siyasi-not.txt
